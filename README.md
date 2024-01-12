@@ -6,19 +6,17 @@
 - front-end application (when applicable)
 ### Setup
 #### .env requirements (where applicable)
-i.e.
+`pip install -r requirements.txt`
 
-- PORT - Port Number
+- PORT - 8000
 - DATABASE_URL - URL to the running Postgres instance/db
 
 #### How to initialize/run your application (where applicable)
-- e.g. python main.py
+- `docker compose up`
 
 #### How to use your library (where applicable)
 #### Tests
-- How do you run tests?
-- Any tests of note?
-- Describe any tests that you did not complete, skipped, etc
+- Manual testing via ThunderClient
 
 #### Attribution
-- [](https://stackoverflow.com/questions/25460981/most-efficient-way-to-store-a-5-point-scale-in-django)
+- [Class 33 Demo](https://github.com/codefellows/seattle-code-python-401n8/tree/main/class-33)
